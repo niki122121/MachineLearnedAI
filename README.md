@@ -8,7 +8,7 @@ In order to reset the learning process (start from generation 0) go to Assets/ML
 
 
 # IA con Machine Learning
-Simples criaturas aprendiendo como navegar un laberinto usando 4 sensores o bigotes cono "input" y un algoritmo de "machine learning" que preserva la criatura más apta al final de cada generación
+Simples criaturas aprendiendo como navegar un laberinto usando 4 sensores o bigotes como "input" y un algoritmo de "machine learning" que preserva la criatura más apta al final de cada generación
 
 Se requiere Unity 2019.2.1
 Para entrenar las criaturas accede a la escena => firstTry
