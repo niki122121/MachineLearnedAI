@@ -1,5 +1,5 @@
 # Machine Learned AI
-Basic creatures learning how to navigate a maze using 4 sensors or wiskers as inputs and a machine learning algorithm that selects for fitness at the end ef each generation.
+Basic creatures learning how to navigate a maze using 4 sensors or wiskers as inputs and a machine learning algorithm that selects for fitness at the end of each generation.
 
 Unity 2019.2.1 is required to run the project.
 For training the creatures go to scene => firstTry
@@ -7,7 +7,7 @@ To see the trained creatures atempt to solve another maze go to scene => SampleS
 In order to reset the learning process (start from generation 0) go to Assets/ML_Values and delete all "ML" files except for ML_Main
 
 
-
+# IA con Machine Learning
 Simples criaturas aprendiendo como navegar un laberinto usando 4 sensores o bigotes cono "input" y un algoritmo de "machine learning" que preserva la criatura más apta al final de cada generación
 
 Se requiere Unity 2019.2.1
